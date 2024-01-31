@@ -1,0 +1,26 @@
+
+=> It consists of the following steps:
+  - Data acquisition
+  - Text extraction & clean up
+
+Preprocessing:
+  - Sentence segmentation
+  - Word tokenisation
+  - Stemming: conversion to the base word (basically removing -ing, etc)
+  - Lemmatization: conversion to base word using grammer (ate - eat)
+
+Feature Engineering:
+  - TF-IDF, One hot encoding, Word Embedding
+
+Model Builing:
+  
+Evaluation:
+  - Confusion matrix, F1 score, accuracy, etc.
+  - And if we did not achieve the target accuracy we start back from the preprocessing step.
+
+Deployment & Monitor/Update:
+  - If the model is not performing well or outdated, you start from the beginning {data acquisition}
+
+
+
+

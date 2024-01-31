@@ -1,0 +1,38 @@
+=> NLP  is a field in computer science and AI that gives machiens an ability to understand human language and to assist in language related tasks.
+
+
+
+			Types of NLP
+
+=> Rules and heuristics : using regular expressions
+=> Machine learning : naive bayes (count vectorizer)	
+=> Deep learing : better than machine learning (sentence embeddings)
+
+- NLP can be used in following areas:
+	* text classifier:
+		- first the text will be vectorised using TF-IDF vectorizer than we using naive bayes classifier we can classify it.
+
+	* text matching:
+		- it is used in resume to sort out the resume that matches the given description
+	
+	* information retrieval:
+		- like google search 
+	
+	* chatbots:
+		- FaQ chatbots, Flow-based bots, Open ended bots like siri.
+
+
+			NLP tasks
+1. Text classification
+2. Text Similarity
+3. Information extraction
+4. Information retrieval
+5. Chat Bots
+6. Machine translation
+7. Text autocomplete
+8. Text summarization
+9. Topic modeling
+10. Voice assistants
+
+
+
