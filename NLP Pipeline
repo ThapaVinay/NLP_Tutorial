@@ -9,8 +9,9 @@ Preprocessing:
   - Stemming: conversion to the base word (basically removing -ing, etc)
   - Lemmatization: conversion to base word using grammer (ate - eat)
 
-Feature Engineering:
-  - TF-IDF, One hot encoding, Word Embedding
+Feature Engineering: 
+  - Extracting features from raw data/ Text Representation
+  - TF-IDF, One hot encoding, Word Embedding, Bag of words
 
 Model Builing:
   
